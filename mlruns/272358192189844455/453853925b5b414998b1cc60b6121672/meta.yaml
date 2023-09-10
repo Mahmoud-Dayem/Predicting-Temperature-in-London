@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/zero/Desktop/repository/Predicting%20Temperature%20in%20London/mlruns/272358192189844455/453853925b5b414998b1cc60b6121672/artifacts
+end_time: 1694356332138
+entry_point_name: ''
+experiment_id: '272358192189844455'
+lifecycle_stage: active
+run_id: 453853925b5b414998b1cc60b6121672
+run_name: run_1
+run_uuid: 453853925b5b414998b1cc60b6121672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694356315320
+status: 3
+tags: []
+user_id: zero
